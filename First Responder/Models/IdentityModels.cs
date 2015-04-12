@@ -30,6 +30,18 @@ namespace First_Responder.Models
             return new ApplicationDbContext();
         }
 
-        public System.Data.Entity.DbSet<First_Responder.Models.Contact> Contacts { get; set; }
+        public System.Data.Entity.DbSet<First_Responder.Areas.Admin.Models.Page> Pages { get; set; }
+
+        public System.Data.Entity.DbSet<First_Responder.Areas.Admin.Models.Station> Stations { get; set; }
+
+        public System.Data.Entity.DbSet<First_Responder.Areas.Admin.Models.Rank> Ranks { get; set; }
+
+        public System.Data.Entity.DbSet<First_Responder.Areas.Admin.Models.RoleType> RoleTypes { get; set; }
+
+        public System.Data.Entity.DbSet<First_Responder.Areas.Admin.Models.State> States { get; set; }
+
+        public System.Data.Entity.DbSet<First_Responder.Areas.Admin.Models.DriverType> DriverTypes { get; set; }
+
+        //public System.Data.Entity.DbSet<First_Responder.Models.Page> Pages { get; set; }
     }
 }

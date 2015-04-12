@@ -1,21 +1,12 @@
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\ApplicationInsights.config
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x86.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.Extensions.Intercept_x64.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\First Responder.dll.config
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\First Responder.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\First Responder.pdb
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Antlr3.Runtime.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\EntityFramework.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\EntityFramework.SqlServer.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.Extensibility.PerfCollector.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.Extensibility.Web.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.AspNet.Identity.Core.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.AspNet.Identity.Owin.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Diagnostics.Instrumentation.Extensions.Intercept.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Owin.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Owin.Host.SystemWeb.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Owin.Security.Cookies.dll
@@ -25,9 +16,6 @@ c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Resp
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Owin.Security.OAuth.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Owin.Security.Twitter.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Threading.Tasks.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Threading.Tasks.Extensions.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Web.Infrastructure.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Newtonsoft.Json.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Owin.dll
@@ -39,15 +27,6 @@ c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Resp
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\System.Web.WebPages.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\System.Web.WebPages.Razor.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\WebGrease.dll
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.xml
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.Extensibility.Web.pdb
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.ApplicationInsights.Extensibility.Web.xml
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Threading.Tasks.xml
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Threading.Tasks.Extensions.xml
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\System.Web.Helpers.xml
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\System.Web.Mvc.xml
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\System.Web.Optimization.xml
@@ -71,8 +50,14 @@ c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Resp
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Owin.Security.Google.xml
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\ApplicationInsights.config
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First Responder.dll
 c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First Responder.pdb
-C:\Users\Jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First_Responder.Migrations.Initial.resources
-C:\Users\Jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First Responder.csproj.GenerateResource.Cache
+c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First_Responder.Migrations.Initial.resources
+c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First Responder.csproj.GenerateResource.Cache
+c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First_Responder.Migrations.Initial1.resources
+c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First_Responder.Migrations.Page.resources
+c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First_Responder.Migrations.BeforeArea.resources
+c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First_Responder.Migrations.Add_Page_Station.resources
+c:\users\jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First_Responder.Migrations.Add_Members.resources
+C:\Users\Jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First Responder.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\documents\visual studio 2013\Projects\First Responder\First Responder\obj\Debug\First_Responder.Migrations.states.resources

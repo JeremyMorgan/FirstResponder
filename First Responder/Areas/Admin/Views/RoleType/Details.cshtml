@@ -1,0 +1,26 @@
+﻿@model First_Responder.Areas.Admin.Models.RoleType
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>RoleType</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RoleTypeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RoleTypeName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.RoleTypeID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
